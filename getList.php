@@ -1,4 +1,4 @@
-    $date_to = date('d.m.Y');
+   <? $date_to = date('d.m.Y');
     $previous_4_week = date('d.m.Y', strtotime("-8 week"));
     
     $arFilter =  array(
