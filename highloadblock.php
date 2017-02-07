@@ -1,4 +1,4 @@
-       
+   <?    
        // подключаем пространство имен класса HighloadBlockTable и даём ему псевдоним HLBT для удобной работы
         use Bitrix\Highloadblock\HighloadBlockTable as HLBT;
         
